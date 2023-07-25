@@ -1,0 +1,27 @@
+{ "videos": 
+    [
+    {
+        "id": 1,
+        "titulo": "Unbelivable Ace in mirage",
+        "capa": "https://thumbs.gfycat.com/BlandCreativeHornet-mobile.jpg",
+        "link": "https://www.youtube.com/embed/lPridcWMeUs"
+    },
+    {
+        "id": 2,
+        "titulo": "Best brazilian awper in cache",
+        "capa": "https://cdn.sanity.io/images/ccckgjf9/production/36fc9205f6e2ee5e238a2e2a7147a5c47398a740-1250x781.jpg?rect=0,38,1250,703&w=1920&h=1080&fit=max&auto=format",
+        "link": "https://www.youtube.com/embed/CU8fUpLMCZs"
+    },
+    {
+        "id": 3,
+        "titulo": "X1 em metin2 acaba com nb massacrado",
+        "capa": "https://i.pinimg.com/originals/e1/5d/93/e15d93922c15c5524a6bc0ffbfb6254e.jpg",
+        "link": "https://www.youtube.com/embed/YXWDettpXHY"
+    },
+    {
+        "id": 4,
+        "titulo": "Massacre em guerra de guilda no Metin2",
+        "capa": "https://s2-techtudo.glbimg.com/ZAdfNmTo4m77q8bUrnVxEFmHzP8=/0x0:695x525/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/V/Z/lXP5bKQqi7iRKNFkcbDg/2013-12-23-metin204.jpg",
+        "link": "https://www.youtube.com/embed/dVyoozHDvPM"
+    }
+]}
